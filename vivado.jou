@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sun Mar 14 21:05:25 2021
+# Process ID: 13888
+# Current directory: E:/class/Master of ANU/6213_Digital Systems and Microprocessors/my_6213/lab2/overflow_clock_divider
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent15300 E:\class\Master of ANU\6213_Digital Systems and Microprocessors\my_6213\lab2\overflow_clock_divider\overflow_clock_divider.xpr
+# Log file: E:/class/Master of ANU/6213_Digital Systems and Microprocessors/my_6213/lab2/overflow_clock_divider/vivado.log
+# Journal file: E:/class/Master of ANU/6213_Digital Systems and Microprocessors/my_6213/lab2/overflow_clock_divider\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {E:/class/Master of ANU/6213_Digital Systems and Microprocessors/my_6213/lab2/overflow_clock_divider/overflow_clock_divider.xpr}
+update_compile_order -fileset sources_1

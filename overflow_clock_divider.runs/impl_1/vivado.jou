@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Fri Mar 12 11:22:10 2021
+# Process ID: 40484
+# Current directory: E:/class/Master of ANU/6213_Digital Systems and Microprocessors/my_6213/lab2/overflow_clock_divider/overflow_clock_divider.runs/impl_1
+# Command line: vivado.exe -log overflowclockdivider.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source overflowclockdivider.tcl -notrace
+# Log file: E:/class/Master of ANU/6213_Digital Systems and Microprocessors/my_6213/lab2/overflow_clock_divider/overflow_clock_divider.runs/impl_1/overflowclockdivider.vdi
+# Journal file: E:/class/Master of ANU/6213_Digital Systems and Microprocessors/my_6213/lab2/overflow_clock_divider/overflow_clock_divider.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source overflowclockdivider.tcl -notrace
